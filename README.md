@@ -42,3 +42,9 @@ En futuras versiones del **Catálogo de Recursos Académicos**, se contempla ext
 2. **Sistema de Autenticación y Roles:** Implementación de acceso basado en usuarios (estudiantes, profesores, administradores) con diferentes niveles de permisos para ver, agregar, editar o eliminar registros.
 3. **Calificación y Reseñas de Recursos:** Capacidad para que la comunidad académica evalúe los materiales mediante una puntuación de 1 a 5 estrellas y deje comentarios justificando su efectividad.
 4. **Integración con APIs Externas:** Conexión automatizada con repositorios académicos abiertos (como Google Scholar, arXiv u OpenAlex) para importar metadatos e indexar nuevos recursos de forma automática.
+
+## Próximas Mejoras
+* **Interfaz de Usuario Basada en Rich:** Mejorar la presentación visual en la consola utilizando componentes gráficos interactivos de la librería `rich`.
+* **Módulo de Consultas y Filtrado:** Desarrollar funciones en Python para buscar recursos en `recursos.json` según el área, nivel o tipo.
+* **Persistencia en Base de Datos:** Migrar la lectura/escritura desde archivos JSON locales hacia una base de datos SQLite o PostgreSQL.
+* **Consumo de APIs REST:** Incorporar un módulo para realizar peticiones HTTP mediante la librería `requests` y sincronizar datos externos.
