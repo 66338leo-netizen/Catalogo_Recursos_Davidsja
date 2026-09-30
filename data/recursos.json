@@ -1,0 +1,22 @@
+[
+  {
+    "id": "REC-001",
+    "titulo": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "tipo": "Libro",
+    "tema": "Ingeniería de Software",
+    "nivel": "Pregrado",
+    "autor_fuente": "Robert C. Martin / Prentice Hall",
+    "anio_publicacion": 2008,
+    "disponible": true
+  },
+  {
+    "id": "REC-002",
+    "titulo": "Attention Is All You Need",
+    "tipo": "Artículo Científico",
+    "tema": "Inteligencia Artificial",
+    "nivel": "Posgrado",
+    "autor_fuente": "Ashish Vaswani et al. / Advances in Neural Information Processing Systems (NeurIPS)",
+    "anio_publicacion": 2017,
+    "disponible": true
+  }
+]
