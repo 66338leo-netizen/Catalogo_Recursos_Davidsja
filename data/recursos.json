@@ -18,5 +18,15 @@
     "autor_fuente": "Ashish Vaswani et al. / Advances in Neural Information Processing Systems (NeurIPS)",
     "anio_publicacion": 2017,
     "disponible": true
+  },
+  {
+    "id": "REC-003",
+    "titulo": "Introduction to Algorithms (CLRS)",
+    "tipo": "Libro",
+    "tema": "Estructura de Datos y Algoritmos",
+    "nivel": "Pregrado",
+    "autor_fuente": "Thomas H. Cormen et al. / MIT Press",
+    "anio_publicacion": 2009,
+    "disponible": true
   }
 ]
