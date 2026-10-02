@@ -11,3 +11,8 @@ Todas las notas de cambios notables en este proyecto serán documentadas en este
 * Definición de criterios de clasificación en `docs/criterios.md`.
 * Creación del archivo de datos inicial `data/recursos.json` con dos registros de ejemplo.
 * Script principal básico `app/main.py`.
+
+
+## Añadido
+- Incorporación de documentación adicional (`docs/fuentes_recomendadas.md`) con plataformas académicas recomendadas.
+- Inclusión de dos nuevos criterios de clasificación en `docs/criterios.md` (Nivel de Accesibilidad y Tipo de Contenido).
