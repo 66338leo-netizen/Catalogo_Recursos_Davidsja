@@ -1,4 +1,4 @@
-se presentan plataformas de acceso abierto y bases de datos académicas de alto impacto para la consulta e investigación:git 
+se presentan plataformas de acceso abierto y bases de datos académicas de alto impacto para la consulta e investigación:
 
 1. **Google Scholar (Google Académico)**
    - **Descripción:** Buscador especializado que indexa literatura científica procedente de editoriales, sociedades científicas, universidades y repositorios.
