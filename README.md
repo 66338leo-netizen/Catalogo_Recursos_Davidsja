@@ -48,3 +48,53 @@ En futuras versiones del **Catálogo de Recursos Académicos**, se contempla ext
 * **Módulo de Consultas y Filtrado:** Desarrollar funciones en Python para buscar recursos en `recursos.json` según el área, nivel o tipo.
 * **Persistencia en Base de Datos:** Migrar la lectura/escritura desde archivos JSON locales hacia una base de datos SQLite o PostgreSQL.
 * **Consumo de APIs REST:** Incorporar un módulo para realizar peticiones HTTP mediante la librería `requests` y sincronizar datos externos.
+
+
+
+
+# 📚 Catálogo de Recursos Académicos
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Git Branch](https://img.shields.io/badge/branch-mejora--catalogo-blue.svg)](#)
+
+Una plataforma/repositorio diseñado para recopilar, clasificar y organizar recursos científicos y académicos de libre acceso.
+
+---
+
+## 📌 Tabla de Contenidos
+
+- [Acerca del Proyecto](#-acerca-del-proyecto)
+- [Características Principales](#-características-principales)
+- [Estructura del Proyecto](#-estructura-del-proyecto)
+- [Documentación](#-documentación)
+- [Cómo Empezar](#-cómo-empezar)
+- [Contribuciones](#-contribuciones)
+- [Licencia](#-licencia)
+
+---
+
+## 💡 Acerca del Proyecto
+
+Este repositorio facilita la búsqueda e investigación académica al centralizar fuentes confiables, artículos *peer-reviewed* y repositorios de acceso abierto en un solo lugar estructurado.
+
+---
+
+## ✨ Características Principales
+
+- 🔍 **Fuentes Verificadas:** Selección de plataformas académicas de alto impacto (Google Scholar, SciELO, arXiv, etc.).
+- 🏷️ **Clasificación Clara:** Criterios bien definidos por nivel de accesibilidad y tipo de contenido.
+- 📖 **Documentación Modular:** Guías claras ubicadas en la carpeta `docs/`.
+
+---
+
+## 📁 Estructura del Proyecto
+
+```text
+.
+├── docs/
+│   ├── criterios.md            # Criterios de clasificación de recursos
+│   └── fuentes_recomendadas.md # Lista de plataformas académicas recomendadas
+├── CHANGELOG.md                # Historial de cambios e incorporaciones
+└── README.md                   # Documentación principal
+
+hola :3
